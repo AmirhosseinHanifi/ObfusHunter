@@ -83,7 +83,7 @@ pyinstaller --onefile --windowed app.py
 
 ## ✍️ Author
 
-**Amirhossein** – `@Deepscope`  
+**Amirhossein**  
 For research, academic use, or collaboration, feel free to contact.
 
 ---
